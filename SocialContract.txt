@@ -1,3 +1,88 @@
 Social Contract for Wu-Tang Clan
 
 1. Malte och Alexander får arbeta minst 60 timmar per vecka LV 2-8 för att de missade halva första. 
+
+MEDLEMMAR
+
+    Albin Thelander, albinthelander@outlook.com, 0760270998
+    Alexander Brunnegård
+    Erik Henriksson
+    Ida Olsson
+    Ivar Nordblom
+    Malte Carlstedt
+    Sally Chung
+    Sebastian Kvaldén
+  
+MÖTEN
+ 
+    Bokningsförfarande
+        Utgår från schema och bestämmer gemensamt. Möte varje X om inget annat har bestämts.
+        Vid miskötsel: 
+      
+    Mötesteknik
+        Scrum?
+        Vid misskötsel:
+     
+    Närvaro
+        X
+        Vid misskötsel:
+    
+    Sen ankomst
+        X
+        Vid misskötsel:
+    
+    Hålla sig till ämnet
+        X
+        Vid misskötsel:
+    
+ARBETSFÖRDELNING
+
+    Ansvarområden
+        X
+        Vid misskötsel:
+        
+    Fördelning av arbete
+        X
+        Vid misskötsel:
+        
+    Deadlines
+        X
+        Vid misskötsel:
+        
+BESLUTSFATTANDE
+
+    Hur tas beslut?
+        X
+        Vid misskötsel:
+        
+    Dokumentation av beslut
+        X
+        Vid misskötsel:
+         
+    Vid konflikt
+        X
+        Vid misskötsel:
+        
+DOKUMENTATION
+
+    
+ 
+ 
+ 
+
+KOMMUNIKATION
+
+   Kanaler
+        Messenger (informell), Slack, Trello, Github, i person
+      
+   Förväntningar
+        Reagera och/eller svara på meddelanden så snabbt som möjligt.
+      
+   Återkoppling
+        Tydlighet och trevlighet
+   
+MÅLSÄTTNING
+
+    Betyg
+        Godkänt
+        
