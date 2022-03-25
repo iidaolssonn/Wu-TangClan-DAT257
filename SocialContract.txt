@@ -36,6 +36,12 @@ MÖTEN
         X
         Vid misskötsel:
     
+    Mötesanteckningar?
+        Y/N
+    
+    Mötesantcknare?
+        X
+    
 ARBETSFÖRDELNING
 
     Ansvarområden
@@ -68,7 +74,7 @@ DOKUMENTATION
 
     Vilket språk ska användas i dokumentation?
         X
-        
+      
 
 KOMMUNIKATION
 
