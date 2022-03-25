@@ -66,10 +66,9 @@ BESLUTSFATTANDE
         
 DOKUMENTATION
 
-    
- 
- 
- 
+    Vilket språk ska användas i dokumentation?
+        X
+        
 
 KOMMUNIKATION
 
